@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Xplot
 
-You can use the [editor on GitHub](https://github.com/izaxon/xplot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Xplot** is a time series data web app documentation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### History
+**Xplot** was initially created as hobby project with the following base requirements in mind.
 
-### Markdown
+1. Create a pure Javascript/HTML/CSS web app for plotting data.
+2. Support plotting of time series data from CSV files.
+3. Use **plotly** as the graph renderer (plotly is the only external dependency).
+4. No backend or server required. All data is stored locally in your browser.
+5. Make it an **Progressive Web App** (PAW, see https://pwabuilder.com for more info).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since the start **Xplot** has grown in features, but still remain true to the intial requirements.
 
-```markdown
-Syntax highlighted code block
+### How can I run/install XPlot?
 
-# Header 1
-## Header 2
-### Header 3
+XPlot is available and installable as a PWA (Progressive Web App) from this location: https://xplot.app.
 
-- Bulleted
-- List
+- XPlot runs in any modern web browser running on tablets, mobile phones and the desktop.
+- XPlot is installable on your PC or mobile/tablet home screen and is started and performs like any other native app.
+- XPlot is also installable from the Windows Store on Windows PCs.
 
-1. Numbered
-2. List
+### Can I report bugs or request new features?
 
-**Bold** and _Italic_ and `Code` text
+Yes! Please visit [issues](https://github.com/izaxon/xplot/issues) and create a new issue.
 
-[Link](url) and ![Image](src)
-```
+### Finally
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Thanks trying out using XPlot! 
 
-### Jekyll Themes
+More will follow...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/izaxon/xplot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+J
