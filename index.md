@@ -2,6 +2,8 @@
 
 **Xplot** is a time series data web app documentation.
 
+![image](https://user-images.githubusercontent.com/805898/140074187-69517649-ccc5-4638-b12c-1dd774afe49f.png)
+
 ### History
 **Xplot** was initially created as hobby project with the following base requirements in mind.
 
