@@ -11,7 +11,7 @@
 2. Support plotting of time series data from CSV files.
 3. Use **plotly** as the graph renderer (plotly is the only external dependency).
 4. No backend or server required. All data is stored locally in your browser.
-5. Make it an **Progressive Web App** (PAW, see https://pwabuilder.com for more info).
+5. Make it an **Progressive Web App** (PWA, see https://pwabuilder.com for more info).
 
 Since the start **Xplot** has grown in features, but still remain true to the intial requirements.
 
@@ -19,9 +19,7 @@ Since the start **Xplot** has grown in features, but still remain true to the in
 
 XPlot is available and installable as a PWA (Progressive Web App) from this location: https://xplot.app.
 
-- XPlot runs in any modern web browser running on tablets, mobile phones and the desktop.
-- XPlot is installable on your PC or mobile/tablet home screen and is started and performs like any other native app.
-- XPlot is also installable from the Windows Store on Windows PCs.
+XPlot runs in any modern web browser (tablets, mobile phones and the desktop). It can be installed on your PC or mobile/tablet. And it is also installable from the Windows Store on Windows PCs.
 
 ### Can I report bugs or request new features?
 
