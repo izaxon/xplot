@@ -1,6 +1,6 @@
 ## Welcome to Xplot
 
-**Xplot** is a time series data web app documentation.
+**Xplot** is a time series data web app.
 
 ![image](https://user-images.githubusercontent.com/805898/140074187-69517649-ccc5-4638-b12c-1dd774afe49f.png)
 
