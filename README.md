@@ -1,11 +1,11 @@
-## Welcome to Xplot
+## Welcome to XPlot
 
-**Xplot** is a time series data web app.
+**XPlot** is a time series data web app.
 
 ![image](https://user-images.githubusercontent.com/805898/140074187-69517649-ccc5-4638-b12c-1dd774afe49f.png)
 
 ### History
-**Xplot** was initially created as hobby project with the following base requirements in mind.
+**XPlot** was initially created as hobby project with the following base requirements in mind.
 
 1. Create a pure Javascript/HTML/CSS web app for plotting data.
 2. Support plotting of time series data from CSV files.
@@ -38,3 +38,4 @@ J
 -----
 ### Blog
 #### 2021-12-15 [Why is XPlot a Progressive Web App (PWA)?](why_pwa.md)
+
