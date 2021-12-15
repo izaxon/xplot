@@ -19,3 +19,5 @@ Given the above, I think it is fair to say that PWAs is the way to go!
 
 
 *(1) PWAs can be published to app stores (e.g. Google Play and Windows Store). XPlot is actually published in Windows Store (https://www.microsoft.com/store/productId/9NJNFZK6B15H).*
+
+**[Back](README.md)**
