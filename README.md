@@ -34,3 +34,7 @@ Thanks trying out using XPlot!
 More will follow...
 
 J
+
+-----
+### Blog
+#### 2021-12-15 [Why is XPlot a Progressive Web App (PWA)?](why_pwa.md)
