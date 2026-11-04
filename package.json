@@ -1,0 +1,20 @@
+{
+  "name": "xplot",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Plot CSV time series in the browser. Data stays on your device.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173"
+  },
+  "dependencies": {
+    "plotly.js-dist-min": "^4.2.0"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  },
+  "author": "Johan Isaksson",
+  "license": "ISC"
+}
